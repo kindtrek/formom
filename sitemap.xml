@@ -1,0 +1,21 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Page principale -->
+  <url>
+	  <loc>https://github.com/kindtrek/formom</loc>
+    <lastmod>2025-04-23</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Autres pages éventuelles à ajouter ici (ex : contact) -->
+  <url>
+	  <loc>https://github.com/kindtrek/formom/contact</loc>
+    <lastmod>2025-04-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+</urlset>

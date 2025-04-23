@@ -1,0 +1,7 @@
+
+# Autorise tous les robots à tout explorer
+User-agent: *
+Allow: /
+
+# Emplacement du sitemap
+Sitemap: https://github.com/kindtrek/formom
