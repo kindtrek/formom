@@ -7,7 +7,7 @@ Ce site statique propose une sélection d'idées cadeaux originales pour la fêt
 
 ## 🌐 Démo en ligne
 
-👉 [Voir le site en ligne](https://github.com/kindtrek/formom)
+👉 [Voir le site en ligne](https://kindtrek.github.io/formom/index.html)
 
 ---
 

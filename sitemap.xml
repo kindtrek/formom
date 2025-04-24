@@ -4,7 +4,7 @@
 
   <!-- Page principale -->
   <url>
-	  <loc>https://github.com/kindtrek/formom</loc>
+	  <loc>https://kindtrek.github.io/formom/index.html</loc>
     <lastmod>2025-04-23</lastmod>
     <changefreq>yearly</changefreq>
     <priority>1.0</priority>
@@ -12,7 +12,7 @@
 
   <!-- Autres pages éventuelles à ajouter ici (ex : contact) -->
   <url>
-	  <loc>https://github.com/kindtrek/formom/contact</loc>
+	  <loc>https://kindtrek.github.io/formom/contact.html</loc>
     <lastmod>2025-04-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

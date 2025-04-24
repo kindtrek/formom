@@ -16,7 +16,7 @@ const gifts = [
     },
     {
         title: "Bijou personnalisé",
-        description: "Un collier gravé avec les initiales de ses enfants.",
+        description: "Un collier gravé avec les prénoms de ses enfants.",
         image: "https://i.etsystatic.com/8595828/r/il/26a75c/6348574397/il_1140xN.6348574397_j225.jpg",
         link: "https://www.etsy.com/fr/listing/746893509/collier-prenom-personnalise-avec-chaine?ref=anchored_listing&pro=1",
 	overlay:""
